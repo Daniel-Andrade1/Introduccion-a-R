@@ -1,2 +1,2 @@
-# Introduccion-a-R
+# Introduccion-a-R Daniel Andrade
 Deber
